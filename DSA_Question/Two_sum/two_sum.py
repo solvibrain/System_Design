@@ -7,4 +7,4 @@ class Solution:
                 return [prevMap[diff],i]
             else:   
                 prevMap[v] =i
-        return         
+        return  []       
